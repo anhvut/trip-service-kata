@@ -1,4 +1,4 @@
-from TripDOA import TripDAO
+from TripDAO import TripDAO
 from UserSession import UserSession
 from UserNotLoggedInException import UserNotLoggedInException
 
